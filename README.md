@@ -1,2 +1,2 @@
 # PasswordGenerator
-[deployed link]()
+[deployed link](https://rasvindra.github.io/PasswordGenerator/)
