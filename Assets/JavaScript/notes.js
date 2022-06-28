@@ -25,6 +25,7 @@ function parameters() {
       ));
     if (numofChar < 8 || numofChar > 128)
       alert("Not a valid choice!");
+      //NEED A WAY TO END PROGRESSION IF NUMBER VALUE IS NOT WITH CORRECT SET PARAMETERS. RIGHT NOW IT WILL STILL LOG UNGER 8  OR OVER 128 CHARACTERS. PLEASE DONT KNOCK OFF TOO MUCH ;-)
 
     if (alphaLower !== "Y" && alphaUpper !== "Y" && specialValues !== "Y" && numberValues !== "Y"){
       alert("Character Type not selected! No Password created!")
